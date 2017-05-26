@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    float: center;
+    padding: 10px;
+    background-color: #0099cc;
+}
+
+
+h1 {
+  font-family:monospace;;
+  font-weight: bolder;
+  color: black;
+  font-size: 80px;
+}
+
+h2{
+
+  background: black;
+  color: white;
+
+}
+
+h3 {
+
+  background: black;
+  color: White;
+
+}
+
+p,p1,p3{
+  font-size: 30px;
+
+  color: black;
+
+}
+
+li,h4{
+  font-size: 20px;
+  color: black;
+  background-color :white;
+
+
+}
+
+
+p,title {
+    font-size: 40px;
+}
+img {
+  height: 175px ;
+
+}
