@@ -5,7 +5,7 @@
 # by Yokke Hargono
 
 # Description:
-Making a website like about me
+Making a website about me
 
 ## Technologies used:
 <ul>
